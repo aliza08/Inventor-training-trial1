@@ -1,4 +1,4 @@
-# Inventor-training-trial1
+# Inventor-Training-2016-ResBaz
 ![screen shot 2016-03-03 at 11 15 10 am](https://cloud.githubusercontent.com/assets/11414668/13480451/17dbd8ca-e132-11e5-8f69-4aff933b4b71.png)
 ![screen shot 2016-03-03 at 11 17 24 am](https://cloud.githubusercontent.com/assets/11414668/13480454/1f3fd184-e132-11e5-91fd-d48d6ef16a68.png)
 ![screen shot 2016-03-03 at 11 17 57 am](https://cloud.githubusercontent.com/assets/11414668/13480457/2162978a-e132-11e5-8fff-1d671d49fe79.png)
