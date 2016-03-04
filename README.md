@@ -1,6 +1,6 @@
 # Inventor-Training-2016-ResBaz
-Download PDF File: [MASTER_RESBAZ_CAD_TRAINING_2016_Final.pdf](https://github.com/aliza08/Inventor-training-trial1/files/155964/Paul_Copy_MASTER_RESBAZ_CAD_TRAINING_2016_Final.pdf)
-Download workshop files: [Workshop Files](https://drive.google.com/open?id=0B9bz3IDp_rUJYTBvVk9aLUFZSEE)
+Download PDF File: [MASTER_RESBAZ_CAD_TRAINING_2016_Final.pdf](https://github.com/aliza08/Inventor-training-trial1/files/155964/Paul_Copy_MASTER_RESBAZ_CAD_TRAINING_2016_Final.pdf)\\
+Download workshop files: [Workshop Files](https://drive.google.com/open?id=0B9bz3IDp_rUJYTBvVk9aLUFZSEE)\\
 [Link to Google slides:](https://docs.google.com/a/student.unimelb.edu.au/presentation/d/1m6Cfg7WHgLhCETZQMPoPLUJWqFaJEUG87Ar_NxbP3lQ/edit?usp=sharing)
 
 ![screen shot 2016-03-03 at 11 15 10 am](https://cloud.githubusercontent.com/assets/11414668/13480451/17dbd8ca-e132-11e5-8f69-4aff933b4b71.png)
