@@ -21,7 +21,6 @@ Go To: [Google slides:](https://docs.google.com/a/student.unimelb.edu.au/present
 ![screen shot 2016-03-03 at 11 22 02 am](https://cloud.githubusercontent.com/assets/11414668/13480491/44f6d2b0-e132-11e5-83b5-83b112b32085.png)
 ![screen shot 2016-03-03 at 11 22 21 am](https://cloud.githubusercontent.com/assets/11414668/13480493/475ec5d0-e132-11e5-8f9c-360d5c686ad9.png)
 ![screen shot 2016-03-03 at 11 22 39 am](https://cloud.githubusercontent.com/assets/11414668/13480495/495e2cd6-e132-11e5-871f-c897d9266c99.png)
-![screen shot 2016-03-03 at 11 23 13 am](https://cloud.githubusercontent.com/assets/11414668/13480497/4bad9b8e-e132-11e5-97c2-07123ded952c.png)
 ![screen shot 2016-03-03 at 11 23 14 am](https://cloud.githubusercontent.com/assets/11414668/13480499/4d967aba-e132-11e5-85f1-ca7ddd05643e.png)
 ![screen shot 2016-03-03 at 11 23 56 am](https://cloud.githubusercontent.com/assets/11414668/13480501/50b846e2-e132-11e5-9809-96137a9047c3.png)
 ![screen shot 2016-03-03 at 11 24 32 am](https://cloud.githubusercontent.com/assets/11414668/13480502/52d8f110-e132-11e5-8ea8-40016b4f5449.png)
